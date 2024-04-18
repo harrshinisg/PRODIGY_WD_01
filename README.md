@@ -1,1 +1,2 @@
 # PRODIGY_WD_01
+Our responsive landing page is meticulously crafted to captivate your audience across all devices, from desktops to smartphones and everything in between.  With clean layouts, intuitive navigation, and striking visuals, we help you make a lasting impression and achieve your goals effectively. Join countless satisfied users who have experienced the power of our responsive landing page solution.
